@@ -1,0 +1,13 @@
+torch
+torchvision
+timm
+numpy
+pandas
+scikit-learn
+opencv-python-headless
+Pillow
+matplotlib
+fastapi
+uvicorn[standard]
+python-multipart
+streamlit
